@@ -1,9 +1,9 @@
-Implementation of a various regressor algorithms to predict health risk scores
+Implementation of a various regressor algorithms to predict health risk scores<br>
 
-Random forest tree:
+Random forest tree:<br>
 
-Coefficient of Determination (R²): 0.9571
-Mean Absolute Percentage Error (MAPE): 1.08%
+Coefficient of Determination (R²): 0.9571<br>
+Mean Absolute Percentage Error (MAPE): 1.08%<br>
 
 Model Performance Before and After Optimization
 1. Gradient Boosted Trees Optimized by Grid Search <br>
