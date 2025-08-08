@@ -1,4 +1,4 @@
-Implementation of a various regressor algorithms to predict health risk scores<br>
+Implementation of a various regressor algorithms to predict health risk scores based on pollution data<br>
 
 Random forest tree:<br>
 
